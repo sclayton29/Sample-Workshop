@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: Title
-description: Tagline
-level: Beginner/Intermediate/Advanced 
+title: Sample Title
+description: A demo of using gh-pages for DSL tutorials
+level: Beginner
