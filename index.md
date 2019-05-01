@@ -11,5 +11,3 @@ Created by Sarah Pugachev
 {% include web_embed.html %}
 
 [Return to Top](#about)
-
-making a change to show pull requests. 
